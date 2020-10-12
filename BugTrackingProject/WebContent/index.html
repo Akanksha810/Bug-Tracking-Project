@@ -9,8 +9,7 @@
 </head>
 <body>
 	<form action="importusers" method="post" enctype="multipart/form-data" id="importusers">
-		<input type="file" name="fileName" id="file" style="visibility: hidden; width: 1px; height: 1px">
-		<a href="#" onclick="document.getElementById('file').click(); document.getElementById('importusers').submit(); ">Import users</a>
+		<input type="file" name="fileName" onchange="document.getElementById('importusers').submit()">
 	</form>
 <a href = "#">Register</a>
 <a href ="#">Login</a>
