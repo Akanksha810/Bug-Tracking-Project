@@ -1,7 +1,7 @@
 # Bug-Tracking-Project
 Code Fury Challenge!
 
-Final commmit ID : https://github.com/Akanksha810/Bug-Tracking-Project/commit/1228b99ad166b97010d9eb621ffff5ce9ead0a6f
+To access the final project submission, the folder is Bug Tracking Project Deliverables commited on 12/10/2020 with commit ID 1228b99ad166b97010d9eb621ffff5ce9ead0a6f 
 
 Tools used :-
 
